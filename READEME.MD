@@ -1,3 +1,6 @@
 ```bash
-npm i light-tpl
+npm i vue-fenghang-cli -g
 ```    
+```bash
+fh create vue-demo
+```
